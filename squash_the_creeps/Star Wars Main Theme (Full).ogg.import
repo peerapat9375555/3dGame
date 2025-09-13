@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://sipm03n506ts"
+path="res://.godot/imported/Star Wars Main Theme (Full).ogg-2a030de1294aa628baae3951b8be1399.oggvorbisstr"
+
+[deps]
+
+source_file="res://Star Wars Main Theme (Full).ogg"
+dest_files=["res://.godot/imported/Star Wars Main Theme (Full).ogg-2a030de1294aa628baae3951b8be1399.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

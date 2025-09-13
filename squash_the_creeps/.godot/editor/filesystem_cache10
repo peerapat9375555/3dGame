@@ -1,0 +1,49 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757756967
+Asteroid.glb::PackedScene::5315249049326235144::1757751724::1757751725::1::::<><><>0<>0<>5f27e5e82c44ba3f3f20acfbe4c17aa1<>res://.godot/imported/Asteroid.glb-fa47430aa0a66cd4252775833bf7f576.scn::
+Astronaut.glb::PackedScene::8474865493266899233::1757751578::1757751580::1::::<><><>0<>0<>ac1883d9be8ea9d0532cef34b5b8ef83<>res://.godot/imported/Astronaut.glb-a2c02a7698ad8d4a3d10d842677f22e0.scn::uid://dt7x4uuoml7ob::::res://Astronaut_Astronaut_BaseColor.png
+Dirt Floor Tile.glb::PackedScene::3487775632792777896::1757753647::1757753678::1::::<><><>0<>0<>b36684fa9d4b62207a212a8a36c5ae59<>res://.godot/imported/Dirt Floor Tile.glb-a5f126f97ca640642874be8c05370c5a.scn::uid://qq6gsxqa6s74::::res://ss/HalloweenBits.tres
+export_presets.cfg::TextFile::-1::1757754623::0::1::::<><><>0<>0<><>::
+flagstone paver.glb::PackedScene::4336381962487712771::1757752915::1757753128::1::::<><><>0<>0<>304fd8ec336559ac85d794310b6c98df<>res://.godot/imported/flagstone paver.glb-1b5f226ff42dd1ade9bd301940da839a.scn::uid://xi8wmfujjfw3::::res://initialShadingGroup.tres
+Flying saucer.glb::PackedScene::6359016951508224161::1757754419::1757754419::1::::<><><>0<>0<>c81b9f5d320a09b873471481c9172cbd<>res://.godot/imported/Flying saucer.glb-6a194f1be2727a1a91e6f899e28f36bc.scn::uid://c6q7r5tuhrgum::::res://Flying saucer_fying_saucerSurface_Color.png
+icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757749142::1757749226::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+Main.gd::GDScript::8123949213996832648::1757749140::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::1946344858681233962::1757756884::0::1::::<><><>0<>0<><>::uid://dn0kiywu3mkq7::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://xi8wmfujjfw3::::res://initialShadingGroup.tres<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://cuh5tufhge35c::::res://Rock.glb<>uid://d8g4likvn0f::::res://Roof Flat Patch Larg.glb<>uid://ofhvwth8plpb::::res://ScoreLabel.gd<>uid://cwumcyvlbrofh::::res://Flying saucer.glb<>uid://blapkhgf0ati4::::res://Star Destroyer 1 V1.glb
+Mob.gd::GDScript::7291350454852087858::1757749140::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Mob.tscn::PackedScene::492840770380503333::1757756884::0::1::::<><><>0<>0<><>::uid://db48qhcxd4usg::::res://Mob.gd<>uid://bicorb7we351t::::res://art/mob.glb<>uid://chy0m022htseq::::res://Asteroid.glb
+Moon.glb::PackedScene::186081620813923867::1757753464::1757753497::1::::<><><>0<>0<>11b51c3f600e5599f1a2a476bef8d266<>res://.godot/imported/Moon.glb-1b27e8a1ac95ab4246fe1e719af47252.scn::uid://dgc1nkgiaenff::::res://ss/Mat.tres
+MusicPlayer.tscn::PackedScene::716687642126613565::1757756884::0::1::::<><><>0<>0<><>::uid://sipm03n506ts::::res://Star Wars Main Theme (Full).ogg
+Player.gd::GDScript/GDScript::9001394967907948641::1757749142::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Player.tscn::PackedScene::8273964046187778922::1757756884::0::1::::<><><>0<>0<><>::uid://d1ilwo7xlp834::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://ds0j2cy46djcr::::res://Astronaut.glb
+R2-D2.glb::PackedScene::781365312236874829::1757756967::1757756967::1::::<><><>0<>0<>7c1e34714266194996689228be6340e3<>res://.godot/imported/R2-D2.glb-5a7af8ae98578288786f8a047abf3766.scn::
+README.md::TextFile/TextFile::-1::1757749142::0::1::::<><><>0<>0<><>::
+Astronaut_Astronaut_BaseColor.png::CompressedTexture2D::8560359529204394933::1757751578::1757751581::1::::<><><>0<>0<>b9fcf18acc03abae3ec74288ec3ae938<>res://.godot/imported/Astronaut_Astronaut_BaseColor.png-5072088ce507c4234550ebb2fcc7d125.s3tc.ctex::
+initialShadingGroup.tres::StandardMaterial3D::1632902012859743668::1757753039::0::1::::<><><>0<>0<><>::
+Moon_1226 Moon.png::CompressedTexture2D::6316828015347353403::1757753464::1757753464::1::::<><><>0<>0<>c77106afcccd7b934b36509c59193fdd<>res://.godot/imported/Moon_1226 Moon.png-9a4a6bf514c84663f8a18c84ce58c4af.s3tc.ctex::
+Dirt Floor Tile_halloweenbits_texture.png::CompressedTexture2D::4658568755945042245::1757753647::1757753647::1::::<><><>0<>0<>8effb305fa2d24d347cba033abe289c1<>res://.godot/imported/Dirt Floor Tile_halloweenbits_texture.png-29f6219f38964905cfc5ea62a94db016.s3tc.ctex::
+Flying saucer_fying_saucerSurface_Color.png::CompressedTexture2D::6983700472465599364::1757754419::1757754420::1::::<><><>0<>0<>9dde0d71720e977cc6138f592e233ee6<>res://.godot/imported/Flying saucer_fying_saucerSurface_Color.png-bfe3b1b3b95b0813e61d9731ec3cfbaf.s3tc.ctex::
+Roof Flat Patch Larg_colormap.png::CompressedTexture2D::2663391885410113136::1757754106::1757754107::1::::<><><>0<>0<>20661685de8c317cc1a2e11850d25653<>res://.godot/imported/Roof Flat Patch Larg_colormap.png-bc716337d69cb748c4061b7286d3073b.s3tc.ctex::
+Roof Flat Patch Larg.glb::PackedScene::8209049334592787::1757754106::1757754168::1::::<><><>0<>0<>ef238ca8bd768accd07a3ce70d722a5f<>res://.godot/imported/Roof Flat Patch Larg.glb-05c532cd5ffae3015af1f6e5e8d62514.scn::uid://bdcrv4dj7v3a8::::res://ss/colormap.tres
+roof-flat-patch-large_0.png::CompressedTexture2D::7150641358553790216::1757754069::1757754071::1::::<><><>0<>0<>5647e031d5befea1db3f138e4ed1809f<>res://.godot/imported/roof-flat-patch-large_0.png-f79d6f508d08ca5baf606defb2eb7f7b.s3tc.ctex::
+Rock.glb::PackedScene::6192925382809736718::1757753816::1757753817::1::::<><><>0<>0<>63cb8221a17e04326456f70df8315335<>res://.godot/imported/Rock.glb-7c64008e964c9ac172244d37826e1dbc.scn::
+roof-flat-patch-large.fbx::PackedScene::7946937561671885629::1757754069::1757754070::1::::<><><>0<>0<>e6b9627d98a21562c7a5a280f6dd4858<>res://.godot/imported/roof-flat-patch-large.fbx-868c9b13159948b00fc2623d3b39e3c1.scn::uid://c843avlkhks1m::::res://roof-flat-patch-large_0.png
+ScoreLabel.gd::GDScript/GDScript::993429405551857235::1757749142::0::1::::<>Label<><>0<>0<><>::
+Star Destroyer 1 V1.glb::PackedScene::3159426953734888489::1757754890::1757754890::1::::<><><>0<>0<>340b95bb63eab81117a3b18869e39b71<>res://.godot/imported/Star Destroyer 1 V1.glb-30f48cfecacbb3bdd0ae8ca5a13bf841.scn::
+Star Wars Main Theme (Full).ogg::AudioStreamOggVorbis::1280847748905463772::1757756480::1757756480::1::::<><><>0<>0<>b62c14e17bc35a9a40d964324ad16c4c<>res://.godot/imported/Star Wars Main Theme (Full).ogg-2a030de1294aa628baae3951b8be1399.oggvorbisstr::
+ui_theme.tres::Theme/Theme::5930143872682747302::1757749142::0::1::::<><><>0<>0<><>::uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf
+::res://art/::1757751518
+body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757749142::0::1::::<><><>0<>0<><>::
+eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757749142::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6912470962729766485::1757749142::1757749226::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene/PackedScene::2952940687663745631::1757749142::1757749228::1::::<><><>0<>0<>a780a1250ec97030b0168a6a0460c3f3<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757749142::0::1::::<><><>0<>0<><>::
+mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757749142::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene/PackedScene::8964461739428881931::1757749142::1757749228::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757749142::0::1::::<><><>0<>0<><>::
+::res://fonts/::1757751518
+LICENSE.txt::TextFile/TextFile::-1::1757749142::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757749142::1757749226::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://ss/::1757754168
+Mat.tres::StandardMaterial3D::7586126260414292483::1757753497::0::1::::<><><>0<>0<><>::uid://cv86h8djxt476::::res://Moon_1226 Moon.png
+HalloweenBits.tres::StandardMaterial3D::1157945465491675613::1757753677::0::1::::<><><>0<>0<><>::uid://b7mv7gqo48owj::::res://Dirt Floor Tile_halloweenbits_texture.png
+colormap.tres::StandardMaterial3D::2602187188928457241::1757754168::0::1::::<><><>0<>0<><>::uid://bd7fw7tdglovw::::res://Roof Flat Patch Larg_colormap.png

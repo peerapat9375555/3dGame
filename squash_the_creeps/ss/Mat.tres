@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dgc1nkgiaenff"]
+
+[ext_resource type="Texture2D" uid="uid://cv86h8djxt476" path="res://Moon_1226 Moon.png" id="1_q5so2"]
+
+[resource]
+resource_name = "Mat"
+albedo_texture = ExtResource("1_q5so2")
+emission_enabled = true
+texture_filter = 2
